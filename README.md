@@ -1,16 +1,6 @@
 🚗 Tesla Stock Price Prediction — Final Report
 🧠 Project Overview
 
-# 🚗 Tesla Stock Price Prediction — Final Report
-
-<p align="center">
-  <img src="image_output.jpg" alt="Tesla Prediction Graph" width="600">
-</p>
-
-## 🧠 Project Overview
-This project focuses on predicting Tesla’s stock prices using time-series deep learning models...
-
-
 ✨This project focuses on predicting Tesla’s stock prices using time-series deep learning models.
 ✨It compares the performance of two neural network architectures — SimpleRNN and LSTM — on historical stock data.
 
